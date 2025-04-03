@@ -25,7 +25,7 @@ print("\x1b[38;5;117m  15\x1b[38;5;231m - Tonguç Checker   | \x1b[1;32m aktif �
 print("\x1b[38;5;117m  16\x1b[38;5;231m - Zula Checker   | \x1b[1;32m aktif ✅")
 print("\x1b[38;5;117m  17\x1b[38;5;231m - s2gepin Checker   | \x1b[1;32m aktif ✅")
 print("\x1b[38;5;117m  18\x1b[38;5;231m - autofıcatıons Checker   | \x1b[1;32m aktif ✅")
-
+print("\x1b[38;5;117m  19\x1b[38;5;231m - autofıcatıons Checker   | \x1b[1;32m aktif ✅")
 	
 
 
@@ -50,7 +50,8 @@ def shelby():
         "15": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/Tomguc_ninjapy.py",
         "16": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/ZuLa-Checker1%20_ninjapy.py",
         "17": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/s2gepin-checker_ninjapy.py",
-        "18": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/autof%C4%B1cat%C4%B1ons6_ninjapy.py"
+	"18": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/s2gepin-checker_ninjapy.py",
+        "19": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/autof%C4%B1cat%C4%B1ons6_ninjapy.py"
     }
     
     if secim in baglantilar:
